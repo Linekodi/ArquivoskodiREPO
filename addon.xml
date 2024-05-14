@@ -16,9 +16,9 @@
 
         <dir minversion="19.0.0">
             <!-- Este diretório é para Kodi Matrix+ -->
-            <info compressed="true">https://raw.githubusercontent.com/Linekodi/Repositorio-Tiojarvis/main/Zips/Nexus/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Linekodi/Repositorio-Tiojarvis/main/Zips/Nexus/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/Linekodi/Repositorio-Tiojarvis/main/Zips/Nexus</datadir>
+            <info compressed="true">https://raw.githubusercontent.com/Linekodi/Repositorio-Tiojarvis/main/Zips/Nexus/addons.xml</info> ### Links modificado do arquivo addon.xml da pasta do seu repositorio no github
+            <checksum>https://raw.githubusercontent.com/Linekodi/Repositorio-Tiojarvis/main/Zips/Nexus/addons.xml.md5</checksum> ### Links modificado do arquivo addon.xml.md5 da pasta do seu repositorio no github
+			<datadir zip="true">https://raw.githubusercontent.com/Linekodi/Repositorio-Tiojarvis/main/Zips/Nexus</datadir> ### Links modificado da onde estão os arquivos e zip dos addons da pasta do seu repositorio no github
             <hashes>false</hashes>
         </dir>    
 
